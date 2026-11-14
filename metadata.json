@@ -1,0 +1,8 @@
+{
+  "name": "SOLEVERSE",
+  "description": "Architectural sneaker e-commerce storefront featuring 18+ curated silhouettes, live filtering, cart persistence, Cash on Delivery checkout, and Supabase catalog & order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
